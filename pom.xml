@@ -20,6 +20,7 @@
 
     <modules>
         <module>day01</module>
+        <module>day02</module>
     </modules>
 
     <scm>
